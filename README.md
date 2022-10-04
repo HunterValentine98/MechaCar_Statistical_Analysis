@@ -20,6 +20,10 @@ With a multiple r-squared value of 0.7149, we predict the model will know the mp
 
 ## Study Design: MechaCar vs Competition
 - What metric or metrics are you going to test?
+Highway Fuel Efficiency
 - What is the null hypothesis or alternative hypothesis?
+We would want to test if the highway fuel efficency is significantly different from other vehicles from other manufacturers. So we would want an alternative hypothesis that highway fuel efficiency of MechaCar cars is significantly different from other manufacturers.
 - What statistical test would you use to test the hypothesis? And why?
+Most likely a one-sample t test because we're comparing similar vehicles and only doing one test based on efficiency points.
 - What data is needed to run the statistical test?
+We would need what type of car it is, and the highway fuel efficiency for each of those vehicles.
